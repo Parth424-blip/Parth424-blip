@@ -1,16 +1,32 @@
 ## Hi there 👋
 
-<!--
-**Parth424-blip/Parth424-blip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Parth, I am a full stack developer focused on building end to end, production ready applications. I care about clean architecture, predictable behavior, and scalable systems.
 
-Here are some ideas to get you started:
+- Full stack web applications using React, Next.js, and Node.js
+- Backend systems using Express, Prisma ORM, and PostgreSQL
+- Integrating third party APIs such as Stripe
+- Strengthening problem solving and system design through real world projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What tools do I use?
+Languages:
+JavaScript, TypeScript, HTML5, CSS, SQL, Python
+
+Frontend:
+React, Next.js, Bootstrap, Tailwind CSS, SCSS
+
+Backend:
+Node.js, Express.js
+Prisma ORM
+MongoDB, PostgreSQL, MySQL
+
+Other tools:
+Git, GitHub, Postman, Webpack
+
+Projects:
+- Brogram: A React app for tracking a 30 day workout program with progress tracking and local storage
+- SmolStore: A modern e commerce app for digital products with Stripe checkout
+- Password Manager: A full stack app for securely managing passwords with CRUD, search, and clipboard features
+
+How to reach me?
+Email: tiwariparth339@gmail.com
+Portfolio: https://parthportfolio12.netlify.app
