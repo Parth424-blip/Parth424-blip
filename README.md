@@ -23,10 +23,9 @@ Other tools:
 Git, GitHub, Postman, Webpack
 
 Projects:
-- Brogram: A React app for tracking a 30 day workout program with progress tracking and local storage
-- SmolStore: A modern e commerce app for digital products with Stripe checkout
-- AI-Resume-Analyzer: A full stack app for securely managing passwords with CRUD, search, and clipboard features
-
+- Brogram: A React app for tracking a 30 day workout program with progress tracking and local storage.
+- SmolStore: A modern e commerce app for digital products with Stripe checkout.
+- AI-Resume-Analyzer: An AI powered resume analyzer built with React Router V7 and TailwindCSS that provides instant ATS scoring and detailed feedback to optimize job applications.
 How to reach me?
 Email: tiwariparth339@gmail.com
 Portfolio: https://parthportfolio12.netlify.app
