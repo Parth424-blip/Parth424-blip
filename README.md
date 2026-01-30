@@ -25,7 +25,7 @@ Git, GitHub, Postman, Webpack
 Projects:
 - Brogram: A React app for tracking a 30 day workout program with progress tracking and local storage
 - SmolStore: A modern e commerce app for digital products with Stripe checkout
-- Password Manager: A full stack app for securely managing passwords with CRUD, search, and clipboard features
+- AI-Resume_analyzer: A full stack app for securely managing passwords with CRUD, search, and clipboard features
 
 How to reach me?
 Email: tiwariparth339@gmail.com
