@@ -8,8 +8,8 @@ I'm Parth, I am a full stack developer focused on building end to end, productio
 - Strengthening problem solving and system design through real world projects
 
 What tools do I use?
-Languages:
 
+Languages:
 JavaScript, TypeScript, HTML5, CSS, SQL, Python
 
 Frontend:
