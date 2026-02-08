@@ -10,15 +10,12 @@ I'm Parth, I am a full stack developer focused on building end to end, productio
 What tools do I use?
 Languages:
 JavaScript, TypeScript, HTML5, CSS, SQL, Python
-
 Frontend:
 React, Next.js, Bootstrap, Tailwind CSS, SCSS
-
 Backend:
 Node.js, Express.js
 Prisma ORM
 MongoDB, PostgreSQL, MySQL
-
 Other tools:
 Git, GitHub, Postman, Webpack
 
