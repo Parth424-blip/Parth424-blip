@@ -2,9 +2,13 @@
 
 # Hi, I'm Parth 👋
 
-Full-Stack Developer building scalable web applications with React, Next.js, Node.js, and PostgreSQL.
+### Full-Stack Developer building scalable and production-oriented web applications
 
 <p>
+  I enjoy building products that feel clean on the frontend and predictable on the backend.
+</p>
+
+<p align="center">
   <a href="https://github.com/Parth424-blip">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -32,9 +36,14 @@ Full-Stack Developer building scalable web applications with React, Next.js, Nod
 
 ## Featured Projects
 
-- 🧠 **AI Resume Analyzer** — ATS-focused resume analysis platform with AI-powered feedback  
-- 🪙 **Canteen** — Full-stack expense tracking platform with analytics and authentication  
-- 🛒 **SmolStore** — E-commerce platform with Stripe integration
+### 🧠 AI Resume Analyzer
+ATS-focused resume analysis platform with AI-powered feedback and job description matching.
+
+### 🪙 Canteen
+Full-stack expense tracking platform with authentication, analytics, and secure user-isolated data.
+
+### 🛒 SmolStore
+Modern e-commerce platform with Stripe integration and responsive product workflows.
 
 ---
 
